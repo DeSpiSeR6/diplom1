@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    box-sizing: border-box;
+}
+#headerMain {
+    width: 100%;
+    height: 15%;
+    background-color:white;
+    display: flex;
+}
+#imgLogo {
+    background-image: url(../img/png-transparent-my-new-restaurant-logo-bistro-cafe-ermita-conrad-manila-restaurant-restaurant-logo-food-text-logo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 2%;
+    width: 10%;
+    height: 90%;
+}
+#headerAbout {
+    width: 37%;
+    padding-top: 2%;
+    margin-left: 50%;
+    text-decoration: none;
+}
+a {
+    padding: 2%;
+    color: rgb(68, 68, 68);
+    font-size: 20px;
+
+}
