@@ -8,6 +8,7 @@ import Body1 from './body1/Body1';
 import Body2 from './body2/Body2';
 import Body3 from './body3/Body3';
 import Body4 from './body4/Body4';
+import Body5 from './body5/Body5';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -17,6 +18,7 @@ root.render(
     <Body2 />
     <Body3 />
     <Body4 />
+    <Body5 />
   </React.StrictMode>
 );
 

@@ -1,7 +1,6 @@
 #Body4Main {
     width: 100%;
     height: 30%;
-    background-color: aqua;
     background-image: url(https://phonoteka.org/uploads/posts/2021-04/1618630123_1-phonoteka_org-p-bezhevii-fon-bumaga-1.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -9,9 +8,6 @@
     font-size: 14px;
     font-family: 'Raleway', sans-serif;
     color: black;
-    overflow:hidden;
-    overflow-y:hidden;  /*для вертикального*/
-    overflow-x:hidden;  /*для горизонтального*/
 }
 #quoteImg {
     width: 2%;
