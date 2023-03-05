@@ -50,6 +50,7 @@ function Body2() {
                     <input type="submit" className='btn' value="Заказать" />
                 </div>          
         </div>
+        <a href=""> <input type="submit" id='MakeOrderBtn1' value="Смотреть все" /> </a>
     </div>
 
   )

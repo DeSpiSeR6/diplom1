@@ -11,7 +11,7 @@ function Body1() {
         <h4>Еда, напитки, настроение</h4>
       </div>
       <div id='head3Btn'>
-       <a href=""> <input type="submit" id='MakeOrderBtn' value="Сделать заказ" /> </a>
+       <a href=""> <input type="submit" id='MakeOrderBtn' value="Забронировать столик" /> </a>
       </div>
       </div>
     </div>

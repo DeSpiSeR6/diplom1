@@ -6,6 +6,8 @@ import UpperHeader from './header/UpperHeader'
 import reportWebVitals from './reportWebVitals';
 import Body1 from './body1/Body1';
 import Body2 from './body2/Body2';
+import Body3 from './body3/Body3';
+import Body4 from './body4/Body4';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -13,6 +15,8 @@ root.render(
     <UpperHeader />
     <Body1 />
     <Body2 />
+    <Body3 />
+    <Body4 />
   </React.StrictMode>
 );
 

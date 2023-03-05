@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    box-sizing: border-box;
+}
+#Body3Main {
+    width: 100%;
+    height: 150%;
+    display: flex;
+    flex-wrap: wrap;
+}
+#food1 {
+    width: 50%;
+    height: 50%;
+    background-image: url(https://balthazar.club/uploads/posts/2022-10/1666007447_1-balthazar-club-p-krasivie-keksi-krasivo-1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#text1 {
+    width: 50%;
+    height: 50%;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+}
+#food2 {
+    width: 50%;
+    height: 50%;
+    background-image: url(https://kartinkin.net/uploads/posts/2021-08/1629589591_12-kartinkin-com-p-samie-krasivie-blyuda-yeda-krasivo-foto-13.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#text2 {
+    width: 50%;
+    height: 50%;
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+}
+#justaText {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    height: auto;
+    width: 80%;
+    font-size: 36px;
+    margin-top: 15%;
+    padding-bottom: 5%;
+
+}
+#justaText1 {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 70%;
+    height: auto;
+    font-size: 20px;
+    padding-bottom: 5%;
+}
+#textButton {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(145, 224, 8);
+    width: 15%;
+    height: 8%;
+    min-height: 8%;
+    color: white;
+    font-size: 20px;
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    border-color: rgb(145, 224, 8);
+    border-style: solid;  
+    margin-left: auto;
+    margin-right: auto;
+    transition: 0.7s;
+}
+#textButton:hover {
+    position: relative;
+    background-color: white;
+    color: black;
+    border-color: rgb(145, 224, 8);
+    cursor: pointer;
+}
